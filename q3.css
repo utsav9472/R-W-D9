@@ -1,0 +1,24 @@
+.container {
+    height: 100vh;
+    width: 260px;
+    background-color: rgb(71, 55, 161);
+}
+
+.nav-links {
+    padding: 10px;
+}
+
+.links {
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.user-profile {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 1vw;
+    margin-top: 60vh;
+    color: rgb(203, 206, 211);
+}

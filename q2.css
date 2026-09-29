@@ -1,0 +1,12 @@
+.item{
+    height: 150px;
+    width: 220px;
+    background-color: cornflowerblue;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 24px;
+}

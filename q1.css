@@ -1,0 +1,17 @@
+.container{
+    height: 80px;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    /* background-color: aqua; */
+    
+}
+#links{
+    display: flex;
+    gap: 20px;
+    /* background-color: brown; */
+}
+a{
+    text-decoration: none;
+    color: black;  
+}
